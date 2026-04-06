@@ -1,18 +1,15 @@
-# erp-rpa-dashboard
-Web-based ERP system with Excel automation and dashboard
 # ERP-RPA Dashboard
 
-Web-based ERP system with Excel automation and interactive dashboard.
+Web tabanlı ERP sistemi, Excel otomasyonu ve interaktif dashboard içerir.
 
-## Features
-- Inventory management (CRUD: Add, Edit, Delete)
-- User login system with admin account
-- Excel import/export automation
-- Simple and interactive web dashboard
-- Built with Flask, SQLite, Pandas, Bootstrap
+## Özellikler
+- Stok yönetimi (CRUD: Ekle, Düzenle, Sil)
+- Kullanıcı login sistemi (admin hesabı)
+- Excel import/export
+- Basit ve interaktif web dashboard
+- Flask, SQLite, Pandas, Bootstrap kullanıldı
 
-## Getting Started
-
-1. Clone the repository:
+## Başlamak için
+1. Repoyu kopyala:
 ```bash
-git clone https://github.com/KULLANICI_ADIN/erp-rpa-dashboard.git
+git clone https://github.com/41baha/erp-rpa-dashboard.git
